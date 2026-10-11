@@ -368,8 +368,8 @@ st.markdown("""
 div[data-testid="stMetric"] {border: 1px solid rgba(128,128,128,.22); padding: 14px; border-radius: 14px;}
 </style>
 <div class="hero">
-<h1>🏥 Hospital Data Integration Studio</h1>
-<p>Upload heterogeneous hospital data, standardize schemas, explore data quality, preprocess records, validate, and export.</p>
+<h1>Intelligent Data Contract Framework</h1>
+<p>Upload heterogeneous data, standardize schemas, explore data quality, preprocess records, validate, and export.</p>
 </div>
 """, unsafe_allow_html=True)
 
